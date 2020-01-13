@@ -1,0 +1,9 @@
+{
+    "name": "waga/torch",
+    "description": "Admin generator",
+    "autoload": {
+        "psr-4": {
+            "Torch\\": "src/"
+        }
+    }
+}
